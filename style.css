@@ -4,7 +4,7 @@
 
 body {
   width: 100vw;
-  heigth: 100vh;
+  height: 100vh;
   display: flex;
   justify-content: center
 }
@@ -16,3 +16,12 @@ body {
 .itens-aligner h1 {
   margin-bottom: 0.5em
 }
+
+footer {  
+  position: fixed;  
+  bottom: 5px;   
+  width: 100vw;  
+  background-color: gray;  
+  color: white;  
+  text-align: center;  
+}  
