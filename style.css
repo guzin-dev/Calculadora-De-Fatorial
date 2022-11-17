@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+body {
+  width: 100vw;
+  heigth: 100vh;
+  display: flex;
+  justify-content: center
+}
+
+.itens-aligner{
+  margin-top: 100px
+}
+
+.itens-aligner h1 {
+  margin-bottom: 0.5em
+}
